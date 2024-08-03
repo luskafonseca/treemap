@@ -1,0 +1,19 @@
+#chart {
+  width: 70%;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#controls {
+  margin-bottom: 20px;
+}
+
+#controls input {
+  margin-right: 10px;
+}
+
+#controls button {
+  margin-right: 10px;
+}
